@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio\\PROJECT\\PR8.1(rec)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{263B5B56-37F9-4587-BE99-C4E10F2E9955}|UnitTest1\\UnitTest1.vcxproj|D:\\Visual Studio\\PROJECT\\PR8.1(rec)\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{263B5B56-37F9-4587-BE99-C4E10F2E9955}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B56B6AC-ECC2-4325-BC39-94D86D95CB26}|PR8.1(rec).vcxproj|D:\\Visual Studio\\PROJECT\\PR8.1(rec)\\PR8.1(rec).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B56B6AC-ECC2-4325-BC39-94D86D95CB26}|PR8.1(rec).vcxproj|solutionrelative:PR8.1(rec).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 264,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\Visual Studio\\PROJECT\\PR8.1(rec)\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\Visual Studio\\PROJECT\\PR8.1(rec)\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T12:54:41.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PR8.1(rec).cpp",
+              "DocumentMoniker": "D:\\Visual Studio\\PROJECT\\PR8.1(rec)\\PR8.1(rec).cpp",
+              "RelativeDocumentMoniker": "PR8.1(rec).cpp",
+              "ToolTip": "D:\\Visual Studio\\PROJECT\\PR8.1(rec)\\PR8.1(rec).cpp",
+              "RelativeToolTip": "PR8.1(rec).cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T12:41:06.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
